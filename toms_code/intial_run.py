@@ -9,6 +9,7 @@ from site_creation import generate_staggered_rotated_points, generate_square_gri
 from matplotlib.ticker import ScalarFormatter
 from wind_turbines import SuzlonS144, W2E160, VestasV150, VestasV136, Suzlon144, Enercon160, Vensys136, GE3MW, Nordex
 
+
 #site setup parameters
 INDEX=2
 rows=4

@@ -40,3 +40,5 @@ def generate_data(wind_speed_vec,power_vec,cut_in,rated,cut_out, rated_power, rh
 
 
 
+
+# %%
